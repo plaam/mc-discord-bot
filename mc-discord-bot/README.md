@@ -2,8 +2,6 @@
 
 ## About
 
-The tutorial video for this project can be found [here]('https://www.youtube.com/watch?v=XfIPKahZ29E') on my youtube channel. Feel free to follow along!
-
 This program connects a Discord Bot and Minecraft Chat Bot together, allowing messages sent on both platforms to be combined into one chat.
 
 Messages sent from a discord channel (or all channels) will be sent to the Minecraft server's chat by the Minecraft bot. Messages sent on the Minecraft server are sent to a Discord channel (or any channel/s) by the Discord Bot.
@@ -34,10 +32,3 @@ PASSWORD=somepassword
 BOT_TOKEN=mybottokenfordiscord
 ```
 
-### Setting up Minecraft Server
-
-I'm assuming you already have a Minecraft Server, but if you don't, setting one up is easy and I quickly went over it in the tutorial for this project, which you can view [here]('https://www.youtube.com/watch?v=XfIPKahZ29E').
-
-### Discord Channel
-
-Make sure you have a dedicated channel on your server where users can communicate with the users on the Minecraft server.
